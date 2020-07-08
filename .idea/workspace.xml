@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6d5c5b8-f4f0-4ccd-a8b3-07cff9ad41c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ac483d51-43f3-4d4a-b4ad-8cc98c09427c" />
+  <component name="ProjectId" id="1cim5GmSHpKhvjiOEWEl8rYnyQu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ChineseText_classification\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.chineseTextClassification">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.8.105:22/usr/local/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../movieclassification" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../movieclassification/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chineseTextClassification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChineseText_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.8.105:22/usr/local/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../movieclassification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chineseTextClassification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChineseText_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.8.105:22/usr/local/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../movieclassification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chineseTextClassification" />
+        <item itemvalue="Python.process_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d5c5b8-f4f0-4ccd-a8b3-07cff9ad41c8" name="Default Changelist" comment="" />
+      <created>1591019602608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591019602608</updated>
+      <workItem from="1591019610752" duration="674000" />
+      <workItem from="1591021893129" duration="1923000" />
+      <workItem from="1591023947651" duration="888000" />
+      <workItem from="1591026401412" duration="50698000" />
+      <workItem from="1591231135843" duration="69000" />
+      <workItem from="1591674248949" duration="63763000" />
+      <workItem from="1592011234559" duration="1219000" />
+      <workItem from="1592012461828" duration="6796000" />
+      <workItem from="1592030055325" duration="3323000" />
+      <workItem from="1592051492057" duration="535000" />
+      <workItem from="1592052037617" duration="6265000" />
+      <workItem from="1592100574000" duration="10541000" />
+      <workItem from="1592132614055" duration="7209000" />
+      <workItem from="1592404124699" duration="12165000" />
+      <workItem from="1594122547280" duration="1908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="259" key="FileChooserDialogImpl" timestamp="1592404228410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592404228410" />
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1592448671225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592448671225" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1592448671225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592448671225" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1592448671225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592448671225" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1592448671225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592448671225" />
+    <state width="976" height="347" key="GridCell.Tab.1.bottom" timestamp="1591173359910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="976" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591173359910" />
+    <state width="976" height="347" key="GridCell.Tab.1.center" timestamp="1591173359910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="976" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591173359910" />
+    <state width="976" height="347" key="GridCell.Tab.1.left" timestamp="1591173359910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="976" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591173359909" />
+    <state width="976" height="347" key="GridCell.Tab.1.right" timestamp="1591173359910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="976" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591173359910" />
+    <state x="448" y="243" key="SettingsEditor" timestamp="1591886560153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="448" y="243" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591886560153" />
+    <state x="471" y="65" width="890" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591861738532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="471" y="65" width="890" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591861738532" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592100588458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592100588458" />
+    <state x="1087" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1592030889053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1087" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592030889053" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChineseText_classification$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1591978386801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../movieclassification" />
+    <SUITE FILE_PATH="coverage/ChineseText_classification$chineseTextClassification.coverage" NAME="chineseTextClassification Coverage Results" MODIFIED="1592413716404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../movieclassification" />
+  </component>
+</project>
